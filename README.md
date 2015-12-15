@@ -1,7 +1,7 @@
 Go concurrency patterns
 =======================
 
->该文档源自 Rob Pike 在google IO中的演讲，版权归原作者所有。如果你在天朝，可以点击[这里](http://v.youku.com/v_show/id_XNDI1NjgxMTAw.html)观看演讲视频。所有的代码皆为本人根据演讲稿内容编写，并调试通过。如发现bug欢迎提交更新。
+> Based On the speech of Rob Pike in Google IO 2012. Watch here(https://youtu.be/f6kdp27TYZs)
 
 ## Concurrency features in Go ##
 
